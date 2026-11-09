@@ -1,0 +1,19 @@
+[
+  "*",
+  "/",
+  "/admin",
+  "/admin/portal",
+  "/customer",
+  "/customer/book",
+  "/customer/booking-flow",
+  "/customer/bookings",
+  "/customer/login",
+  "/customer/profile",
+  "/customer/register",
+  "/customer/support",
+  "/customer/tracking/:bookingId",
+  "/customer/wallet",
+  "/driver",
+  "/driver/portal",
+  "/login"
+]
